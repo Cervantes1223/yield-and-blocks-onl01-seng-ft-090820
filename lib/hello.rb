@@ -6,7 +6,7 @@ def hello_t(array)
     i = i + 1
   end
 
-array
+ array
 end
 
 hello_t(["Tim", "Tom", "Jim"]) do |name|
